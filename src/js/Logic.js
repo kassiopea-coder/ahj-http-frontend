@@ -2,7 +2,7 @@ export default class Logic {
   constructor(gui) {
     this.gui = gui;
     this.tickets = null;
-    this.url = 'http://localhost:7070/';
+    //this.url = 'http://localhost:7070/';
     this.url = 'https://ahj-http-backend1.herokuapp.com';
     this.modalSubmit = this.modalSubmit.bind(this);
     this.modalReset = this.modalReset.bind(this);
