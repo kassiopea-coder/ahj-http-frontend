@@ -3,6 +3,8 @@
 
 [Ссылка на Heroku](https://ahj-http-backend1.herokuapp.com/)
 
+[Ссылка на Github pages](https://kassiopea-coder.github.io/ahj-http-frontend/)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать npm (а значит, никакого `yarn.lock` в репозитории быть не должно)
